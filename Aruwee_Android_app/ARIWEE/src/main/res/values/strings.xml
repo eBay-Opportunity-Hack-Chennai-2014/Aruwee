@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >ARIWEE
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+    <string name="hello_world" >Hello world!
+    </string>
+    <string name="client_id">Enter Client_Id: </string>
+    <string name="client_name">Enter Client_Name: </string>
+    <string name="client_age">Enter Client_Age: </string>
+    <string name="dob">Enter Date-Of-Birth: </string>
+    <string name="std">Enter School Standard: </string>
+    <string name="add_1">Enter Add_1: </string>
+    <string name="add_2">Enter Add_2: </string>
+    <string name="fhn">Enter Father/Hus Name: </string>
+    <string name="fhd">Enter Father/Hus Detail: </string>
+    <string name="mother">Enter Mother Name: </string>
+    <string name="occupation">Enter Occupation: </string>
+    <string name="income">Enter Income: </string>
+    <string name="s_name">Enter Sibbling Name: </string>
+    <string name="cases">Enter Case Study: </string>
+    <string name="r_name">Enter Referer_Name: </string>
+    <string name="r_add">Enter Referer_Add: </string>
+    <string name="r_contact">Enter Referer_contact: </string>
+
+</resources>

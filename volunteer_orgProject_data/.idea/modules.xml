@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/volunteer_org/volunteer_org.iml" filepath="$PROJECT_DIR$/volunteer_org/volunteer_org.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volunteer_orgProject.iml" filepath="$PROJECT_DIR$/volunteer_orgProject.iml" />
+    </modules>
+  </component>
+</project>
+

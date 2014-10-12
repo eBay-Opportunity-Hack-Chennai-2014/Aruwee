@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\volunteer_orgProject\volunteer_org\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\volunteer_orgProject\volunteer_org\src\debug\assets" />
+    </dataSet>
+
+</merger>
